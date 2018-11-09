@@ -8,6 +8,8 @@ public class Sayhi {
 			System.out.println("Update GIT");
 			System.out.println("Update Jenkins");
 			System.out.println("Update Jenkins 1");
+			System.out.println("Update Jenkins 2");
+			
 			
 		}
 	}
